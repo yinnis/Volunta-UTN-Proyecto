@@ -271,7 +271,7 @@ hr{
   z-index: 99;
   opacity: 0;
   visibility: hidden;
-  background: #a09b9b;
+  background: #fff;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: 0.3s;
 }
@@ -285,7 +285,7 @@ hr{
   font-size: 14px;
   font-weight: 500;
   text-transform: none;
-  color: white;
+  color: black;
 }
 
 .navbar .dropdown ul a i {
@@ -411,7 +411,7 @@ hr{
   z-index: 99;
   opacity: 1;
   visibility: visible;
-  background: #b3b8b5;
+  background: #fff;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
 }
 
