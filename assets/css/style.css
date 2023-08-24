@@ -788,7 +788,7 @@ section {
 /* About Us Section
 --------------------------------*/
 #about {
-  background: url("../img/Fondos.png") center top no-repeat fixed;
+  background: rgb(240, 237, 237);
   background-size: cover;
   padding: 60px 0 40px 0;
   position: relative;
@@ -814,7 +814,7 @@ section {
 #about .about-col {
   background: #fff;
   border-radius: 0 0 4px 4px;
-  box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.08);
+  box-shadow: 0px 2px 12px rgba(152, 160, 167, 0.08);
   margin-bottom: 20px;
 }
 
